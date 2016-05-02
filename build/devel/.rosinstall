@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/brent/ros_ws/k2_client/build/devel/setup.sh

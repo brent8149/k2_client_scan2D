@@ -1,0 +1,7 @@
+<launch>
+	<param name="serverNameOrIP" value="129.2.177.237" />
+		<group ns="/head/kinect2">
+
+		<node name="startScan2D" pkg="k2_client" type="startScan2D"/>
+		</group>
+</launch>
